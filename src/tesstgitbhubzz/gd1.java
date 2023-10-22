@@ -48,6 +48,8 @@ public class gd1 extends JFrame {
 		contentPane.add(btnNewButton_2);
 		JButton btnNewButton_3 = new JButton("New button");
 		contentPane.add(btnNewButton_2);
+		JButton btnNewButton_4 = new JButton("New button");
+		contentPane.add(btnNewButton_2);
 	}
 
 }
